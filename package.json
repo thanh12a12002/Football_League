@@ -1,0 +1,26 @@
+{
+  "name": "football_league",
+  "version": "1.0.0",
+  "description": "Website giải bóng đá 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanh12a12002/Football_League.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanh12a12002/Football_League/issues"
+  },
+  "homepage": "https://github.com/thanh12a12002/Football_League#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
